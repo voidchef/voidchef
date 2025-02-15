@@ -1,6 +1,6 @@
 # Hey! I'm Neelutpal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="36px" height="36px" />
 
-[![Neelutpal Saha Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelutpal-saha-572788206/)
+[comment]: # ([![Neelutpal Saha Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelutpal-saha-572788206/))
 
 I'm looking to expand my knowledge in `Web Development` and `Software Engineering`. Pleasure to meet you!
 
